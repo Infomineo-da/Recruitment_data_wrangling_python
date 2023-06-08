@@ -20,7 +20,7 @@ TARGETS_COLS =['Department_ST','Stage_advancement','Target Name','Target Value']
 
 
 # File paths for input data and output file
-ACTIVITY_REPORT_PATH = r".\input_data\activity_report_2022-01-01_2022-12-31_nadia_new.csv"
+ACTIVITY_REPORT_PATH = r".\input_data\activity_report_2022-01-01_2023-05-31.csv"
 ACTIVITY_DICT_PATH = r".\input_data\Activity_Dictionary.xlsx"
 HR_NAMES_PATH = r".\input_data\HR_Name_List.xlsx"
 PROCESS_STEP_PATH = r".\input_data\Process_Step.xlsx"
